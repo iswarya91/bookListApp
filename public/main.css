@@ -1,0 +1,10 @@
+input {
+    width:100%;
+}
+
+.message {
+    color: white;
+    display: none;
+    padding: 10px;
+    margin-bottom: 10px;
+}
